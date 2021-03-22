@@ -1,0 +1,1 @@
+python main.py --student_model resnet20  --result ./results --dataset cifar100 --n_class 100 --batch_size 128 --lr 0.1 --wd 5e-4 --epochs 200 --method scratch
